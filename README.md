@@ -6,7 +6,6 @@ _Échale un ojo a mis repositorios si quieres descubrir los siguientes proyectos
 - ⚡ La Adivina.
 - ⚡ SerioFinder.
 - ⚡ Las Retamas.
-- ⚡ La Adivina.
 - ⚡ Rick y Morty.
 - ⚡ Portfolio.
 
