@@ -3,11 +3,11 @@
 _La primera vez que mis padres me apuntaron a clases de natación solo tenía 3 años. Quizá por eso, cuando decidí dar el salto al mundo de la programación, supe que tarde o temprano me sentiría como pez en el agua. Y es que, con esfuerzo, voluntad y capacidad de adaptación, siempre he conseguido mis metas. Gracias a todo lo que he aprendido en Adalab ¡estoy preparada para sumergirme en las aguas de la programación frontend! ¿Me acompañas en este viaje?_
 
 _Échale un ojo a mis repositorios si quieres descubrir los siguientes proyectos:_
-- ⚡ La Adivina.
-- ⚡ SerioFinder.
-- ⚡ Las Retamas.
-- ⚡ Rick y Morty.
-- ⚡ Portfolio.
+- ⚡ [La Adivina.](https://github.com/sandratapia/la-adivina)
+- ⚡ [SerioFinder.](https://github.com/sandratapia/serio-finder)
+- ⚡ [Las Retamas.](https://github.com/sandratapia/las-retamas)
+- ⚡ [Rick y Morty.](https://github.com/sandratapia/rick-and-morty)
+- ⚡ [Portfolio.](https://github.com/sandratapia/portfolio-sandra-tapia)
 
 ## Contacto
 
